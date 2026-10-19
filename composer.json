@@ -1,0 +1,19 @@
+{
+    "name": "dmitriy-zhukov/otus-composer-package",
+    "description": "test package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "DmitriyZhukov\\OtusComposerPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Дмитрий Жуков",
+            "email": "dimas_zhukov@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    }
+}
