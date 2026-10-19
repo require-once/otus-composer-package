@@ -8,6 +8,6 @@ class StringProcessor
 {
     public function getLength(string $str): int
     {
-        return strlen($str);
+        return mb_strlen($str);
     }
 }
