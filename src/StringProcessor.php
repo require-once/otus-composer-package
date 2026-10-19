@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace DmitriyZhukov\OtusComposerPackage\Package;
+namespace DmitriyZhukov\OtusComposerPackage;
 
 class StringProcessor
 {
